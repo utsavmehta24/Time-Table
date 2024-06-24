@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string name="ab">Designed and made by</string>
+    <string name="ab1">rockingUT</string>
+    <string name="ab2">(Utsav Mehta)</string>
+    <string name="content_description_for_textView2">Welcome message</string>
+    <string name="content_description_for_textView">It show the app is made by whom</string>
+    <string name="content_description_for_textView23">It show the app is made by image at background image to be placed</string>
+    <string name="UpBox">Today\'s Time Table is…</string>
+    <string name="e_mail">For further quries mail to: \nutsavmehta24072003@gmail.com</string>
+    <string name="text">Text View</string>
+    <string name="time1">8:40-9:40</string>
+    <string name="time2">9:40-10:40</string>
+    <string name="time3">10:45-12:45</string>
+    <string name="time4">1:30-2:30</string>
+    <string name="time5">2:30-3:30</string>
+    <string name="contact_e_mail">contact e-mail</string>
+    <string name="for_further_solution_contact_nutsavmehta24072003_gmail_com">For further solution contact \nutsavmehta24072003@gmail.com</string>
+    <string name="lectures_for_today">Lectures for Today:</string>
+    <string name="view_tommorrow_s">View Tommorrow\'s Time Table</string>
+    <string name="lectures_for_tommorrow">Lectures for Tommorrow:</string>
+
+</resources>
