@@ -1,6 +1,9 @@
 # College Lecture Timetable App
 
-![App Icon](https://via.placeholder.com/150) <!-- Replace with your app icon -->
+<p align="center">
+  <img src="https://r-dumpsite.netlify.app/img/image.png" alt="App Icon" style="width: 200px;"/>
+</p>
+<p align="center"><em>App Icon: Displaying the current day's timetable.</em></p>
 
 ## Table of Contents
 - [Overview](#overview)
@@ -23,11 +26,17 @@ The **College Lecture Timetable App** is designed to help students easily access
 - **User-Friendly Interface**: Simple and intuitive UI for easy access to timetable details.
 
 ## Screenshots
-![Main Screen](https://via.placeholder.com/400x800) <!-- Replace with actual screenshot -->
-*Main Screen: Displaying the current day's timetable.*
 
-![Lecture Details](https://via.placeholder.com/400x800) <!-- Replace with actual screenshot -->
-*Lecture Details: Information about each lecture.*
+<div align="center">
+  <img src="https://r-dumpsite.netlify.app/img/screenshot-1.jpg" alt="Main Screen" style="width: 300px; height: auto;" />
+  <p><em>Landing Screen: Credentails of timetable Application.</em></p>
+</div>
+
+<div align="center">
+  <img src="https://r-dumpsite.netlify.app/img/screenshot-2.jpg" alt="Lecture Details" style="width: 300px; height: auto;" />
+  <p><em>Lecture Details: Information about each lecture.</em></p>
+</div>
+
 
 ## Installation
 1. **Clone the Repository**:
