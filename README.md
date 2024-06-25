@@ -41,8 +41,8 @@ The **College Lecture Timetable App** is designed to help students easily access
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/college-lecture-timetable-app.git
-    cd college-lecture-timetable-app
+    git clone https://github.com/utsavmehta24/Time-Table
+    cd TimeTable
     ```
 
 2. **Open in Android Studio**:
