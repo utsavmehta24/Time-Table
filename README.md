@@ -183,13 +183,13 @@ public class MainActivity3 extends AppCompatActivity {
 ```
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any features or fixes you would like to see.
 
 ## Contact
-For any inquiries or support, feel free to contact [Utsav Mehta](mailto:your-email@example.com).
+For any inquiries or support, feel free to contact [Utsav Mehta](mailto:utsavmehta24072003@gmail.com).
 
 ---
 
