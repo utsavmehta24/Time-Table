@@ -194,11 +194,3 @@ For any inquiries or support, feel free to contact [Utsav Mehta](mailto:utsavmeh
 ---
 
 *Enjoy using the app and stay organized with your lectures!* 🚀
-```
-
-### Customization Tips
-- Replace placeholder URLs for images and email with actual links.
-- Add more detailed instructions or sections if needed, such as for troubleshooting.
-- Include any additional features or plans for future updates.
-
-Feel free to copy and paste this into your README file and modify it according to your project specifics.
