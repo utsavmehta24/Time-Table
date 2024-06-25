@@ -1,5 +1,14 @@
 # College Lecture Timetable App
 
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://github.com/utsavmehta24/Time-Table/releases/download/v1.0.0/Time.Table.apk" style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/download--v1.png" alt="Download" style="vertical-align: middle; margin-right: 10px;"/> Download Now (v1.0.0, 5.8 MB)
+  </a>
+</div>
+<p style="text-align: center; color: #555;">
+  <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Safe and secure download.</em>
+</p>
+
 <p align="center">
   <img src="https://r-dumpsite.netlify.app/img/image.png" alt="App Icon" style="width: 200px;"/>
 </p>
