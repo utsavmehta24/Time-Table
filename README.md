@@ -390,7 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Utsav Mehta** - Enhanced TimeTable App v2.0
 
 - **Email**: utsavmehta24072003@gmail.com
-- **GitHub**: [@yourusername](https://github.com/utsavmehta24)
+- **GitHub**: [@utsavmehta24](https://github.com/utsavmehta24)
 - **LinkedIn**: [Utsav Mehta](https://www.linkedin.com/in/utsav-mehta-462653258)
 
 ## 🙏 Acknowledgments
