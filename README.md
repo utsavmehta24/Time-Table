@@ -390,8 +390,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Utsav Mehta** - Enhanced TimeTable App v2.0
 
 - **Email**: utsavmehta24072003@gmail.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Utsav Mehta](https://linkedin.com/in/utsavmehta)
+- **GitHub**: [@yourusername](https://github.com/utsavmehta24)
+- **LinkedIn**: [Utsav Mehta](https://www.linkedin.com/in/utsav-mehta-462653258)
 
 ## 🙏 Acknowledgments
 
@@ -404,11 +404,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - **Email**: utsavmehta24072003@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/timetable-app/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/timetable-app/wiki)
+- **Issues**: [GitHub Issues](https://github.com/utsavmehta24/timetable-app/issues)
+- **Documentation**: [Wiki](https://github.com/utsavmehta24/timetable-app/wiki)
 
 ---
 
 *Built with ❤️ using Material Design 3, MongoDB Atlas, and modern Android development practices.*
 
-*Last updated: January 2024*
+*Last updated: August 2025*
