@@ -404,8 +404,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - **Email**: utsavmehta24072003@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/utsavmehta24/timetable-app/issues)
-- **Documentation**: [Wiki](https://github.com/utsavmehta24/timetable-app/wiki)
+- **Issues**: [GitHub Issues](https://github.com/utsavmehta24/Time-Table/issues)
+- **Documentation**: [Wiki](https://github.com/utsavmehta24/Time-Table/wiki)
 
 ---
 
