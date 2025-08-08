@@ -2,11 +2,49 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="red">#FF0000</color>
-    <color name="my_color">#0747B3</color>
-    <color name="green">#0DD315</color>
-    <color name="yellow">#C2D50C</color>
-    <color name="myco">#7CDF08</color>
-    <color name="gold">#ffd200</color>
 
+    <!-- Material Design 3 Colors -->
+    <color name="primary">#FF6750A4</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="primary_container">#FFEADDFF</color>
+    <color name="on_primary_container">#FF21005D</color>
+    <color name="secondary">#FF625B71</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="secondary_container">#FFE8DEF8</color>
+    <color name="on_secondary_container">#FF1D192B</color>
+    <color name="tertiary">#FF7D5260</color>
+    <color name="on_tertiary">#FFFFFFFF</color>
+    <color name="tertiary_container">#FFFFD8E4</color>
+    <color name="on_tertiary_container">#FF31111D</color>
+    <color name="error">#FFBA1A1A</color>
+    <color name="on_error">#FFFFFFFF</color>
+    <color name="error_container">#FFFFDAD6</color>
+    <color name="on_error_container">#FF410002</color>
+    <color name="background">#FFFFFBFF</color>
+    <color name="on_background">#FF1C1B1F</color>
+    <color name="surface">#FFFFFBFF</color>
+    <color name="on_surface">#FF1C1B1F</color>
+    <color name="surface_variant">#FFE7E0EB</color>
+    <color name="on_surface_variant">#FF49454E</color>
+    <color name="outline">#FF79747E</color>
+    <color name="outline_variant">#FFCAC4D0</color>
+    <color name="inverse_surface">#FF313033</color>
+    <color name="inverse_on_surface">#FFF4EFF4</color>
+    <color name="inverse_primary">#FFD0BCFF</color>
+    <color name="shadow">#FF000000</color>
+    <color name="surface_tint">#FF6750A4</color>
+    <color name="scrim">#FF000000</color>
+
+    <!-- Day-specific colors -->
+    <color name="monday_color">#FFE3F2FD</color>
+    <color name="tuesday_color">#FFF3E5F5</color>
+    <color name="wednesday_color">#FFE8F5E8</color>
+    <color name="thursday_color">#FFFFF3E0</color>
+    <color name="friday_color">#FFFFEBEE</color>
+    <color name="saturday_color">#FFF1F8E9</color>
+    <color name="sunday_color">#FFFFF8E1</color>
+    <color name="default_day_color">#FFF5F5F5</color>
+
+    <!-- Background colors -->
+    <color name="background_color">#FFF8F9FA</color>
 </resources>

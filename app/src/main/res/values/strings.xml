@@ -1,23 +1,70 @@
 <resources>
-    <string name="app_name">Time Table</string>
-    <string name="ab">Designed and made by</string>
-    <string name="ab1">rockingUT</string>
-    <string name="ab2">(Utsav Mehta)</string>
-    <string name="content_description_for_textView2">Welcome message</string>
-    <string name="content_description_for_textView">It show the app is made by whom</string>
-    <string name="content_description_for_textView23">It show the app is made by image at background image to be placed</string>
-    <string name="UpBox">Today\'s Time Table is…</string>
-    <string name="e_mail">For further quries mail to: \nutsavmehta24072003@gmail.com</string>
-    <string name="text">Text View</string>
-    <string name="time1">8:40-9:40</string>
-    <string name="time2">9:40-10:40</string>
-    <string name="time3">10:45-12:45</string>
-    <string name="time4">1:30-2:30</string>
-    <string name="time5">2:30-3:30</string>
-    <string name="contact_e_mail">contact e-mail</string>
-    <string name="for_further_solution_contact_nutsavmehta24072003_gmail_com">For further solution contact \nutsavmehta24072003@gmail.com</string>
-    <string name="lectures_for_today">Lectures for Today:</string>
-    <string name="view_tommorrow_s">View Tommorrow\'s Time Table</string>
-    <string name="lectures_for_tommorrow">Lectures for Tommorrow:</string>
-
+    <string name="app_name">TimeTable</string>
+    
+    <!-- App Information -->
+    <string name="app_developer">Utsav Mehta</string>
+    <string name="app_version">v2.0</string>
+    <string name="app_description">Enhanced TimeTable App with Teacher and Student Views</string>
+    
+    <!-- Role Selection -->
+    <string name="teacher_role">Teacher</string>
+    <string name="student_role">Student</string>
+    <string name="select_role">Select Your Role</string>
+    
+    <!-- Teacher Login/Registration -->
+    <string name="teacher_login">Teacher Login</string>
+    <string name="teacher_register">Teacher Registration</string>
+    <string name="teacher_name">Teacher Name</string>
+    <string name="teacher_email">Email Address</string>
+    <string name="teacher_department">Department</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="unique_code">Unique Code</string>
+    
+    <!-- Student Login -->
+    <string name="student_login">Student Login</string>
+    <string name="enter_teacher_code">Enter Teacher Code</string>
+    <string name="view_timetable">View Timetable</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="add_lecture">Add Lecture</string>
+    <string name="edit_lecture">Edit Lecture</string>
+    <string name="delete_lecture">Delete Lecture</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    
+    <!-- Lecture Details -->
+    <string name="lecture_name">Lecture Name</string>
+    <string name="classroom">Classroom</string>
+    <string name="teacher">Teacher</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="day_of_week">Day of Week</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Messages -->
+    <string name="lecture_added">Lecture added successfully</string>
+    <string name="lecture_updated">Lecture updated successfully</string>
+    <string name="lecture_deleted">Lecture deleted successfully</string>
+    <string name="teacher_registered">Teacher registered successfully</string>
+    <string name="invalid_code">Invalid teacher code</string>
+    <string name="no_lectures">No lectures for this day</string>
+    
+    <!-- Days of Week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    
+    <!-- Contact Information -->
+    <string name="contact_email">utsavmehta24072003@gmail.com</string>
+    <string name="for_support">For support contact</string>
+    
+    <!-- Material Design -->
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
 </resources>
